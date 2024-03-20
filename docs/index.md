@@ -52,7 +52,7 @@ Discuz!社区版上的费用主要涉及：
 
 ## 部署流程
 
-1.访问Discuz!社区版服务[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-c6be5c5106944ed2b738&ServiceVersion=6)
+1.访问Discuz!社区版服务[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-14fac3b46e2e4e52ba2c&ServiceVersion=1)
 ，按提示填写部署参数：
 
 ![image.png](2.png)
